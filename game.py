@@ -21,7 +21,7 @@ for i in range (0,5):
         break 
     else:
         if(i==4):
-            print("Sorry ! you ahve used all ypur chances :(")
+            print("Sorry ! you have used all ypur chances :(")
             break
         print(f"Wrong Guess ! Try again. ")
         
